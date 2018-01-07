@@ -1,0 +1,6 @@
+[Core]
+Name = ExamplePlugin
+Module = example
+
+[Documentation]
+Description = Example plugin
